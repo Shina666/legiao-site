@@ -1,0 +1,20 @@
+{
+  "name": "legiao",
+  "homepage": "https://github.com/Shina666/legiao-site",
+  "authors": [
+    "Khorzus <khorzus666@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
+}
